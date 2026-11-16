@@ -8,11 +8,11 @@ My aim is to provide farmers with the access and know-how to utilize novel data 
 
 ## Skills 
 Python
-R (tidyverse)
-ARC GIS Pro
-HPLC Solid Phase Extraction
-Problem Solving
-Critical Thinking
+  R (tidyverse)
+  ARC GIS Pro
+  HPLC Solid Phase Extraction
+  Problem Solving
+  Critical Thinking
 
 ## Projects
 Maize Cropping Events PCA - https://github.com/adinh132/Instructional-PCA-
